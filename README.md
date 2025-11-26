@@ -63,10 +63,14 @@
 ## Скриншоты
 
 [Скриншоты](screenshots)
-[screenshots/IMG_1974.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG)
-[screenshots/IMG_1975.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1975.PNG?raw=true)
-[screenshots/IMG_1976.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1976.PNG?raw=true)
-[screenshots/IMG_1977.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1977.PNG?raw=true)
+
+[screenshot 01](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG)
+
+[screenshot 02](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1975.PNG)
+
+[screenshot 03](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1976.PNG)
+
+[screenshot 04](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1977.PNG)
 
 ---
 
