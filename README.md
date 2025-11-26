@@ -61,7 +61,10 @@
 ---
 
 ## Скриншоты
-_Добавьте сюда скриншоты интерфейса, примеры ответов или схему архитектуры._
+screenshots/IMG_1974.PNG
+screenshots/IMG_1975.PNG
+screenshots/IMG_1976.PNG
+screenshots/IMG_1977.PNG
 
 ---
 
