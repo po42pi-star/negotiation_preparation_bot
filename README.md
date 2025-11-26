@@ -62,7 +62,7 @@
 
 ## Скриншоты
 
-[Скриншоты](screenshots)
+[All screenshots are in the project folder](screenshots)
 
 [screenshot 01](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG)
 
