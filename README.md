@@ -62,6 +62,7 @@
 
 ## Скриншоты
 
+[Скриншоты](/tree/main/screenshots)
 [screenshots/IMG_1974.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG?raw=true)
 [screenshots/IMG_1975.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1975.PNG?raw=true)
 [screenshots/IMG_1976.PNG](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1976.PNG?raw=true)
