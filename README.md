@@ -60,15 +60,13 @@
 
 ## Скриншоты
 
-[All screenshots are in the project folder](screenshots)
+![screenshot 01](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG)
 
-[screenshot 01](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1974.PNG)
+![screenshot 02](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1975.PNG)
 
-[screenshot 02](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1975.PNG)
+![screenshot 03](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1976.PNG)
 
-[screenshot 03](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1976.PNG)
-
-[screenshot 04](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1977.PNG)
+![screenshot 04](https://github.com/po42pi-star/negotiation_preparation_bot/blob/main/screenshots/IMG_1977.PNG)
 
 ## Этапы реализации
 
